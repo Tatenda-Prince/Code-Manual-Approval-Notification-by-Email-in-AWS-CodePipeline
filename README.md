@@ -75,7 +75,61 @@ Click “Create Subscription.”
 Make sure you confirm  subscription from your own email to see example below-
 
 
+![image_alt](https://github.com/Tatenda-Prince/Code-Manual-Approval-Notification-by-Email-in-AWS-CodePipeline/blob/35f5a2260b95def998d2f76682c3c4cc0bea5de0/img/Screenshot%202025-01-30%20151408.png)
+
+
+## Step 2 : Configure AWS CodePipeline
+
+2.1.Select the Pipeline:
+
+Navigate to the CodePipeline console.
+
+Click on Edit:
+
+Select the pipeline where you want to add the email approval step.
+
+Click on “Edit.”
+
 ![image_alt]()
+
+
+2.2.Add Stage:
+
+Add a new stage to your pipeline.
+
+Configure it with a manual approval action
+
+![image_alt]()
+
+
+2.3.Configure Manual Approval:
+
+Add an action group to your new stage.
+
+Choose the action type as “Manual Approval.”
+
+2.4.In Approval Request:
+
+In the action provider, choose “Manual Approval.”
+
+SNS Topic: Choose the SNS topic created earlier from the dropdown.
+
+Save the changes to your pipeline configuration.
+
+
+![image_alt]()
+
+
+
+2.5.Save the changes to your pipeline configuration
+
+Our Manual approval was successfully created 
+
+![image_alt]()
+
+
+
+
 
 
 
