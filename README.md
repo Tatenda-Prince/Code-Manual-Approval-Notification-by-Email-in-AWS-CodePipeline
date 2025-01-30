@@ -46,7 +46,7 @@ Choose “Create topic.
 
 Give your topic a name
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Code-Manual-Approval-Notification-by-Email-in-AWS-CodePipeline/blob/5951c868792c6c54a575018b6f23a25d8584eaab/img/Screenshot%202025-01-30%20151159.png)
 
 
 proceed and click create
