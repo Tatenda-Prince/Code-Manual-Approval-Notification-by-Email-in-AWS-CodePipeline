@@ -145,7 +145,7 @@ The email will contain an approval link. Click on the link to proceed with the d
 
 
 
-![image_alt]() 
+![image_alt](https://github.com/Tatenda-Prince/Code-Manual-Approval-Notification-by-Email-in-AWS-CodePipeline/blob/4922441f3bb54fab40ce77b22d7cb2441ed28090/img/Screenshot%202025-01-30%20154847.png) 
 
 
 
