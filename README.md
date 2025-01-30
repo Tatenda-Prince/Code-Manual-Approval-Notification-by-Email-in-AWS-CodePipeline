@@ -56,7 +56,7 @@ proceed and click create
 
 Add a subscription with the following details:
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Code-Manual-Approval-Notification-by-Email-in-AWS-CodePipeline/blob/5f95801faa0370e4070df87b599b6a0511ca77d6/img/Screenshot%202025-01-30%20151225.png)
 
 
 
