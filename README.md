@@ -121,11 +121,33 @@ Save the changes to your pipeline configuration.
 
 
 
-2.5.Save the changes to your pipeline configuration
-
 Our Manual approval was successfully created 
 
+![image_alt](https://github.com/Tatenda-Prince/Code-Manual-Approval-Notification-by-Email-in-AWS-CodePipeline/blob/e36bcc0817f2f314f473d2476ae3f9459b30bbcd/img/Screenshot%202025-01-30%20153002.png)
+
+
+2.5.Save the changes to your pipeline configuration
+
+
+## Step 3: Trigger a pipeline execution by pushing new code.
+
 ![image_alt]()
+
+
+
+## Step 4: Email Notification:
+
+Once the pipeline reaches the manual approval stage, an email notification will be sent to the specified address, including the commit message in the comments.
+
+Approve via Email:
+
+The email will contain an approval link. Click on the link to proceed with the deployment.
+
+
+
+![image_alt]() 
+
+
 
 
 
