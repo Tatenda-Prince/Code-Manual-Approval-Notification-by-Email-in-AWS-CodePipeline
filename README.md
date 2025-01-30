@@ -66,7 +66,7 @@ Protocol: Select “Email.”
 
 Endpoint: Enter the email address where you want to receive the approval link.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Code-Manual-Approval-Notification-by-Email-in-AWS-CodePipeline/blob/9485af6a7cc761f90e210d976659c5213e4dd630/img/Screenshot%202025-01-30%20151309.png)
 
 
 Click “Create Subscription.”
