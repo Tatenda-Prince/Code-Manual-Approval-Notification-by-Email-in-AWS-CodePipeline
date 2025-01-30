@@ -41,7 +41,7 @@ In SNS, create a new topic with a meaningful name.
 
 Choose “Create topic.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Code-Manual-Approval-Notification-by-Email-in-AWS-CodePipeline/blob/484f5895dfe3db0bb221e86e7d3ac1befe31ff04/img/Screenshot%202025-01-30%20151105.png)
 
 
 Give your topic a name
