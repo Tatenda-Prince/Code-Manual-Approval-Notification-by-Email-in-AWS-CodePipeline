@@ -117,7 +117,7 @@ SNS Topic: Choose the SNS topic created earlier from the dropdown.
 Save the changes to your pipeline configuration.
 
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Code-Manual-Approval-Notification-by-Email-in-AWS-CodePipeline/blob/9f452c2b93d16e4eef124c8220c0ecaf23b68ab9/img/Screenshot%202025-01-30%20152936.png)
 
 
 
