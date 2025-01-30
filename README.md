@@ -131,7 +131,7 @@ Our Manual approval was successfully created
 
 ## Step 3: Trigger a pipeline execution by pushing new code.
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Code-Manual-Approval-Notification-by-Email-in-AWS-CodePipeline/blob/b39d90227b480fc1bae6d03afaa67c4e5267f811/img/Screenshot%202025-01-30%20171423.png)
 
 
 
