@@ -90,7 +90,7 @@ Select the pipeline where you want to add the email approval step.
 
 Click on “Edit.”
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Code-Manual-Approval-Notification-by-Email-in-AWS-CodePipeline/blob/595fbd198edaa6d2567b9869fedb43ecc7bec6b4/img/Screenshot%202025-01-30%20152742.png)
 
 
 2.2.Add Stage:
