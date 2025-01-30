@@ -99,7 +99,7 @@ Add a new stage to your pipeline.
 
 Configure it with a manual approval action
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Code-Manual-Approval-Notification-by-Email-in-AWS-CodePipeline/blob/0ea3b36f0d39586609e1a64ceaf2dcee7e8f5143/img/Screenshot%202025-01-30%20152820.png)
 
 
 2.3.Configure Manual Approval:
