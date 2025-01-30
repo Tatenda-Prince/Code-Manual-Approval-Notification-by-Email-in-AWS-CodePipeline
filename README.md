@@ -147,6 +147,10 @@ The email will contain an approval link. Click on the link to proceed with the d
 
 ![image_alt](https://github.com/Tatenda-Prince/Code-Manual-Approval-Notification-by-Email-in-AWS-CodePipeline/blob/4922441f3bb54fab40ce77b22d7cb2441ed28090/img/Screenshot%202025-01-30%20154847.png) 
 
+# Congratulations
+
+By integrating AWS CodePipeline into a simple notification service(SNS) and adding manual approval steps, you’ve strengthened your development workflow with an email-driven code approval process This not only ensures that every code push triggers an email notification immediately not only for users but also for approval of necessary changes for stakeholders. Adopting a flexible workflow that provides this intuitive and secure tool will increase the speed, robustness and security of your code implementation. As the technological landscape evolves, such integrations align your development practices with industry best practices.
+
 
 
 
